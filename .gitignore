@@ -14,3 +14,9 @@ cabal.sandbox.config
 *.aux
 *.hp
 .stack-work/
+
+# Atom stuff
+*.save0
+
+# Idea stuff
+.idea

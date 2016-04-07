@@ -1,2 +1,2 @@
-# haskell-math
-Haskell Mathematics
+# haskell-world
+Haskell World
